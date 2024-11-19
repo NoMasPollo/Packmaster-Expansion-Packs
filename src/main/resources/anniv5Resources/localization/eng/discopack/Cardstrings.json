@@ -1,0 +1,53 @@
+{
+  "${ModID}:ExplosiveFinale": {
+    "NAME": "Explosive Finale",
+    "DESCRIPTION": "Unplayable if your hand isn't full or one card. NL Deal !D! damage to ALL enemies. NL Discard your hand."
+  },
+  "${ModID}:ElectricSlide": {
+    "NAME": "Electric Slide",
+    "DESCRIPTION": "You may discard !M! card. NL If you do, gain [E] .",
+    "UPGRADE_DESCRIPTION":"Discard up to !M! cards. NL Gain [E] per card discarded.",
+    "EXTENDED_DESCRIPTION": ["discard."]
+  },
+  "${ModID}:FastMovements": {
+    "NAME": "Fast Movements",
+    "DESCRIPTION": "At the end of your turn, gain !${ModID}:m2! ${ModID}:Inspiration for each card less than three in your hand."
+  },
+  "${ModID}:StepTaps": {
+    "NAME": "Step Taps",
+    "DESCRIPTION": "Ethereal. NL When drawn, add a *Point *Move to your hand. NL If you discard this, draw !M! cards.",
+    "UPGRADE_DESCRIPTION":"Ethereal. NL When drawn, add a *Point *Move+ to your hand. NL If you discard this, draw !M! cards."
+  },
+  "${ModID}:FunkyChicken": {
+    "NAME": "Funky Chicken",
+    "DESCRIPTION": "${ModID}:Dancing. NL Gain !B! Block. NL At the start of your next turn, discard !M! cards."
+  },
+  "${ModID}:InTheRhythm": {
+    "NAME": "In The Rhythm",
+    "DESCRIPTION": "Whenever you discard a card, gain !M! temporary Strength and Dexterity next turn.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you discard a card, gain temporary !M! Strength and Dexterity next turn."
+  },
+  "${ModID}:PointMove": {
+    "NAME": "Point Move",
+    "DESCRIPTION": "Deal !D! damage. NL ${ModID}:MEGAthereal."
+  },
+  "${ModID}:TheBump": {
+    "NAME": "The Bump",
+    "DESCRIPTION": "Deal !D! damage. NL Discard a card. NL If you discard this, gain !M! ${ModID}:Inspiration twice."
+  },
+  "${ModID}:TheBusStop": {
+    "NAME": "The Bus Stop",
+    "DESCRIPTION": "${ModID}:Dancing. NL Draw !M! cards. NL ${ModID}:Flurry: Discard your leftmost card.",
+    "UPGRADE_DESCRIPTION":"${ModID}:Dancing. NL Draw !M! cards. NL Choose one ${ModID}:Flurry: Discard your leftmost or rightmost card.",
+    "EXTENDED_DESCRIPTION": ["${ModID}:Flurry: Discard your leftmost card.", "${ModID}:Flurry: Discard your rightmost card."]
+  },
+  "${ModID}:TheRobot": {
+    "NAME": "The Robot",
+    "DESCRIPTION": "Deal !D! damage. NL Regain all ${ModID}:Inspiration used by this."
+  },
+  "${ModID}:YMCA": {
+    "NAME": "YMCA",
+    "DESCRIPTION": "${ModID}:Dancing. NL Gain !M! ${ModID}:Inspiration !${ModID}:m2! times. NL If you discard this, it will gain again.",
+    "UPGRADE_DESCRIPTION": "${ModID}:Dancing. NL Gain !M! ${ModID}:Inspiration !${ModID}:m2! times. NL If you discard this, it will gain again."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "${ModID}:FastMovementsPower": {
+    "NAME": "Fast Movements",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b", " #yInspiration #b", " time", " for each card less than 3 in your hand" ,"s", "."
+    ]
+  },
+  "${ModID}:InTheRhythmPower": {
+    "NAME": "In The Rhythm",
+    "DESCRIPTIONS": [
+      "Whenever you discard a card, gain #b", " Strength and #b", " #yDexterity next turn only.", " Currently gains #b", "."
+    ]
+  },
+  "${ModID}:ChickenPower": {
+    "NAME": "Chicken Scratch",
+    "DESCRIPTIONS": [
+      "At the start of your next #b", " turns, discard #b"," cards."
+    ]
+  },
+  "${ModID}:StepPower": {
+    "NAME": "Point Preparedness",
+    "DESCRIPTIONS": [
+      "Your Point Moves deal #b", " more damage."
+    ]
+  },
+  "${ModID}:BusPower": {
+    "NAME": "Riding the Bus",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, discard your leftmost", " #b", " card", "s", "."
+    ]
+  },
+  "${ModID}:BusPower2": {
+    "NAME": "Riding the Bus, Backwards",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, discard your rightmost ", "#b", " card", "s", "."
+    ]
+  }
+}
